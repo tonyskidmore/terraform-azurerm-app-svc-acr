@@ -25,7 +25,7 @@ _Note:_
 git clone https://github.com/tonyskidmore/terraform-azurerm-app-svc-acr.git
 cd terraform-azurerm-app-svc-acr/terraform
 
-cd /terraform/<one-of-the-above-directories>
+cd <one-of-the-above-directories>
 
 terraform init
 terraform plan -out tfplan
